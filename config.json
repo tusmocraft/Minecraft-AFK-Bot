@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "Lomita",
+  "serverHost": "lomitamc.mcsh.io",
+  "serverPort": 24059,
+  "botUsername": "lomitamc",
   "botChunk": 1
 }
